@@ -1,0 +1,24 @@
+{
+  "name": "unmand",
+  "version": "1.0.0",
+  "description": "Node.js library for the Unmand APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unmand-systems/unmand-node.git"
+  },
+  "keywords": [
+    "unmand",
+    "ocr",
+    "automation"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/unmand-systems/unmand-node/issues"
+  },
+  "homepage": "https://github.com/unmand-systems/unmand-node#readme"
+}
